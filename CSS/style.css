@@ -151,7 +151,7 @@
   /* Gallery Section */
   
   .work {
-    background: url('../images/poster.png') #1b1b1b;
+    background: #1b1b1b;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
